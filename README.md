@@ -50,23 +50,6 @@ This project is a Machine Learning model that classifies iris flowers into three
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/iris-model.git
-cd iris-model
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## ▶️ Usage
 
 Run the notebook or script:
