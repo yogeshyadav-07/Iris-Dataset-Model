@@ -107,16 +107,6 @@ Output: 0 (Setosa)
 
 ---
 
-## 📁 Project Structure
-
-```
-iris-model/
-│
-├── Iris.csv
-├── model.ipynb
-├── requirements.txt
-└── README.md
-```
 
 ---
 
